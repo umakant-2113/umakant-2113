@@ -21,7 +21,7 @@
        </a>
        
        <a href="https://www.linkedin.com/in/umakant-rajput-15b555225/" target="_blank">
-
+          <img src="https://www.svgrepo.com/show/107799/linkedin.svg"/>
        </a>
    </nav>
    <br>
