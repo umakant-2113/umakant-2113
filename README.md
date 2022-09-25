@@ -21,7 +21,7 @@
        </a>
        
        <a href="https://www.linkedin.com/in/umakant-rajput-15b555225/" target="_blank">
-          <img src="http://encomium.ng/wp-content/uploads/2016/01/LinkedIn-Logo.png" margin-right="20px" width="30px" height="30px"/> 
+          <img src="https://tse2.mm.bing.net/th?id=OIP.Wb7hhWjXe-7skOMk8pnSDQHaHa&pid=Api&P=0" margin-right="20px" width="30px" height="30px"/> 
        </a>
    </nav>
    <br>
