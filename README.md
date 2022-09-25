@@ -17,11 +17,11 @@
           <img src="https://img.icons8.com/color/344/gmail-new.png" margin-right="20px" width="30px" height="30px"/> 
        </a>
        <a href="https://www.codewars.com/users/umakant-2113" target="_blank">
-          <img src="https://docs.codewars.com/logo.svg" margin-right="20px" width="30px" height="30px"/> 
+          <img src="https://docs.codewars.com/logo.svg"  margin-right="20px" width="30px" height="30px" /> 
        </a>
        
        <a href="https://www.linkedin.com/in/umakant-rajput-15b555225/" target="_blank">
-          <img src="https://www.svgrepo.com/show/57068/linkedin.svg" margin-right="20px" width="30px" height="30px"/> 
+
        </a>
    </nav>
    <br>
