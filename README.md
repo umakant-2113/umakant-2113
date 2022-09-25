@@ -19,6 +19,9 @@
        <a href="https://www.codewars.com/users/umakant-2113" target="_blank">
           <img src="https://docs.codewars.com/logo.svg"  margin-right="20px" width="30px" height="30px" /> 
        </a>
+          <a href="https://www.codewars.com/users/umakant-2113" target="_blank">
+          <img src="https://www.svgrepo.com/show/107799/linkedin.svg"  margin-right="40px" width="30px" height="30px" /> 
+       </a>
    </nav>
    <br>
 
